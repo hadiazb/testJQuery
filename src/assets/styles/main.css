@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: sans-serif ;
 }
 .question {
   width: 100%;
@@ -48,10 +49,11 @@
   font-weight: 1000;
 }
 
-.questionUno__pregunta h1 {
+.questionUno__pregunta h2 {
   font-weight: 1000;
+  font-size: 1.2em;
 }
-.questionUno__pregunta h1 span {
+.questionUno__pregunta h2 span {
   font-weight: 200;
 }
 .questionUno__photo {
